@@ -1,7 +1,7 @@
 
 # Assignment 2
 
-Basic part
+<H2>Basic part</H2><BR>
 
 Create web application, which can host your image gallery:
 
@@ -15,8 +15,8 @@ Create web application, which can host your image gallery:
 
 
 You are allowed to use any JS or CSS frameworks
-You are allowed to use only Python programming language and Flask framework
-Optimal part
+You are allowed to use only Python programming language and Flask framework <BR>
+<H2>Optimal part</H2>
 Create web application, which emulates a chat with a human:
 
 1.1. Web page with messages log
