@@ -1,5 +1,5 @@
 # Web Development Assignements 
-<BR>2nd Assignment WITH CHAT 
+<BR> <H2>2nd Assignment WITH CHAT</H2> <BR>
 Name: Omar Farshad
 <br>
 Group: N41513
